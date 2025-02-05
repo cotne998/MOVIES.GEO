@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movies.geo/static/css/main.8a4ed072.css",
+    "main.js": "/movies.geo/static/js/main.456a462e.js",
+    "static/media/background-img.jpg": "/movies.geo/static/media/background-img.8fcd1b8c2285431331a3.jpg",
+    "index.html": "/movies.geo/index.html",
+    "main.8a4ed072.css.map": "/movies.geo/static/css/main.8a4ed072.css.map",
+    "main.456a462e.js.map": "/movies.geo/static/js/main.456a462e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a4ed072.css",
+    "static/js/main.456a462e.js"
+  ]
+}
