@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://cotne998.github.io/MOVIES.GEO/
 
 Navigate to the project directory:
 
@@ -52,7 +52,7 @@ npm start
 
 Usage
 
-Open your browser and go to http://localhost:3000/.
+Open your browser and go to https://cotne998.github.io/MOVIES.GEO/.
 
 Use the search bar to find movies and TV shows.
 
